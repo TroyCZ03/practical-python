@@ -4,6 +4,6 @@
 
 height =100
 
-for i in range(11):
-    height * 0.6
+for i in range(10):
+    height = height * 0.6
     print(height)
